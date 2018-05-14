@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSA_Task_ASP_NET_Core", "BSA_Task_ASP_NET_Core\BSA_Task_ASP_NET_Core.csproj", "{1ECDB8C2-AC5B-4BCA-BB38-D794436F7F8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSA_Task_ClassLibrary", "BSA_Task_ClassLibrary\BSA_Task_ClassLibrary.csproj", "{B9582602-1BD0-45E4-8E4C-F91BD7CB5A44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ECDB8C2-AC5B-4BCA-BB38-D794436F7F8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ECDB8C2-AC5B-4BCA-BB38-D794436F7F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ECDB8C2-AC5B-4BCA-BB38-D794436F7F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ECDB8C2-AC5B-4BCA-BB38-D794436F7F8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9582602-1BD0-45E4-8E4C-F91BD7CB5A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9582602-1BD0-45E4-8E4C-F91BD7CB5A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9582602-1BD0-45E4-8E4C-F91BD7CB5A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9582602-1BD0-45E4-8E4C-F91BD7CB5A44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B757279B-07DD-41CB-A4E6-3BFFEAE41495}
+	EndGlobalSection
+EndGlobal
